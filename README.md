@@ -13,6 +13,6 @@ Tom and Seth provided me with some data to analyse from the Colorado Board of el
 - 8.The winning candidate.
 
 # Election-Audit Results 
-(path/to/ElectionResults.xlxs)
+  ![Election_Results]
 
 
