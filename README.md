@@ -43,3 +43,6 @@ The winner of the election was Diana Degette, who received 73.8% of the vote and
 ![Election_Results](https://user-images.githubusercontent.com/55515005/137073607-68d03f36-2d4b-4a31-b581-93942970f993.png)
 
 
+
+# Election Audit Summary 
+ The script that was written to generate the analysis can be used to support other scenarios. The script can be updated if necesarr to adapt to the necesarry data set. 
