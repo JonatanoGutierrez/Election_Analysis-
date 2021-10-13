@@ -16,6 +16,7 @@ Tom and Seth provided me with some data to analyse from the Colorado Board of el
 ## Summary
 
 - 1.How many votes were cast in this congressional election?
+
  There were a total of 369,711 votes that were provided in the election.
  
 - 2.Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
