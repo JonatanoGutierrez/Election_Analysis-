@@ -25,11 +25,21 @@ The votes were collected from three counties, Arapahoe, Denver and Jefferson. Ou
 
 - 3.Which county had the largest number of votes?
 
+Jefferson County's votes were 10.5% of total votes. Denver County's votes were 82.8% of total votes. Arapahoe County's votes were 6.7% of total votes.
+
 - 4.Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 
+Charles Casper Stockham: 85,213 votes or 23%
+Diana DeGette: 272,892 votes or 73.8%
+Raymon Anthony Doane:11,606 votes or 3.1%
+
 - 5.Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
- 
-- 
+
+Charles Casper Stockham: 85,213 votes or 23%
+Diana DeGette: 272,892 votes or 73.8%
+Raymon Anthony Doane:11,606 votes or 3.1%
+The winner of the election was Diana Degette, who received 73.8% of the vote and 272,892 votes.
+
 ![Election_Results](https://user-images.githubusercontent.com/55515005/137073607-68d03f36-2d4b-4a31-b581-93942970f993.png)
 
 
