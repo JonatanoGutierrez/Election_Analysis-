@@ -13,6 +13,6 @@ Tom and Seth provided me with some data to analyse from the Colorado Board of el
 - 8.The winning candidate.
 
 # Election-Audit Results 
-![Election_Results](path/to/image_name.png)
+![Election_Results](https://user-images.githubusercontent.com/55515005/137073607-68d03f36-2d4b-4a31-b581-93942970f993.png)
 
 
