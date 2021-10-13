@@ -13,6 +13,21 @@ Tom and Seth provided me with some data to analyse from the Colorado Board of el
 - 8.The winning candidate.
 
 # Election-Audit Results 
+## Summary
+
+- 1.How many votes were cast in this congressional election?
+ There were a total of 369,711 votes that were provided in the election.
+ 
+- 2.Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+The votes were collected from three counties, Arapahoe, Denver and Jefferson. Out of the three, Denver had the largest turnout and number of votes:
+  - 
+- 3.Which county had the largest number of votes?
+
+- 4.Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+
+- 5.Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+ 
+- 
 ![Election_Results](https://user-images.githubusercontent.com/55515005/137073607-68d03f36-2d4b-4a31-b581-93942970f993.png)
 
 
