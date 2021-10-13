@@ -21,9 +21,8 @@ Tom and Seth provided me with some data to analyse from the Colorado Board of el
  
 - 2.Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 
- The votes were collected from three counties, Arapahoe, Denver and Jefferson. 
- Out of the three, Denver had the largest turnout and number of votes:
-  - 
+The votes were collected from three counties, Arapahoe, Denver and Jefferson. Out of the three, Denver had the largest turnout and number of votes:
+
 - 3.Which county had the largest number of votes?
 
 - 4.Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
