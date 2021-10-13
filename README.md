@@ -4,7 +4,7 @@
 Tom and Seth provided me with some data to analyse from the Colorado Board of elections. The election committe has requested that the data be further analyzed for further results mentioned below.
 
 1.The total number of votes in the election.
-2.The voter turnout for each county.
+---2.The voter turnout for each county.
 3.The percentage of total votes for each county
 4.The county with the largest voter turnout.
 5.The candidates in the election.
